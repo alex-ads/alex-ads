@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Análise de Dados<br>👯 Análise de dados<br>🤝 Estágio<br>🌱 Python para Análise de Dados e Data Science<br>💬 Desenvolvimento FullStack <br>⚡Sou entusiasta de criptomoedas e investimentos
+🔭 Python para Mercado Financeiro<br>👯 Análise de dados<br>🤝 Estágio<br>🌱 Python para Análise de Dados e Data Science<br>💬 Desenvolvimento FullStack <br>⚡Sou entusiasta de criptomoedas e investimentos
 
 
 ## 🌐 Socials:
