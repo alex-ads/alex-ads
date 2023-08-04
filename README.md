@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Bot para Mercado Financeiro<br>👯 Desenvolvimento Back-End<br>🤝 Estágio<br>🌱 Python para Análise de Dados<br>💬 Desenvolvimento Full Stack <br>⚡ Sou entusiasta de criptomoedas e investimentos
+🔭 ...<br>👯 Desenvolvimento<br>🤝 Estágio<br>🌱 Desenvolvimento web
+<br>💬 Desenvolvimento Full Stack <br>⚡ Sou entusiasta de criptomoedas e investimentos
 
 
 ## 🌐 Socials:
