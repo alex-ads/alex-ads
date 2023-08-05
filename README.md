@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 ...<br>👯 Desenvolvimento Back-end<br>🤝 Estágio<br>🌱 Desenvolvimento web
+🔭 ...<br>👯 SQL<br>🤝 Estágio<br>🌱 Desenvolvimento web
 <br>💬 Desenvolvimento Full Stack <br>⚡ Sou entusiasta de criptomoedas e investimentos
 
 
