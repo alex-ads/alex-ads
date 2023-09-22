@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Aplicação Full Stack com Angular e Spring Boot<br>👯 SQL<br>🤝 Estágio<br>🌱 Desenvolvimento web
+🔭 Análise de Dados<br>👯 SQL/NoSQL<br>🤝 Estágio<br>🌱 Desenvolvimento web
 <br>💬 Desenvolvimento Full Stack <br>⚡ Sou entusiasta de Criptomoedas, Blockchain e Investimentos
 
 
