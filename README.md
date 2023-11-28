@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Data Analytics<br> 👯 SQL/NoSQL<br> 🌱 Desenvolvimento web
+🔭 Análise de Dados<br> 👯 SQL/NoSQL<br> 🌱 Desenvolvimento Web
 <br>⚡ Sou entusiasta de Criptomoedas, Blockchain e Investimentos
 
 
