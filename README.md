@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Desenvolvimento Backend<br> 👯 SQL/NoSQL<br> 🌱 Django
+🔭 Desenvolvimento Full Stack<br> 👯 SQL/NoSQL<br> 🌱 Desenvolvimento Web Django
 <br>⚡ Sou entusiasta de Criptomoedas, Blockchain e Investimentos
 
 
