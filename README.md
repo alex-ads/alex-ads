@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Desenvolvimento Full Stack<br> 👯 SQL/NoSQL<br> 🌱 Desenvolvimento Web Django
-<br>⚡ Sou entusiasta de Criptomoedas, Blockchain e Investimentos
+<br>⚡ Entusiasta de Criptomoedas, Blockchain e Investimentos
 
 
 ## 🌐 Socials:
