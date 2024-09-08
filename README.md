@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Desenvolvimento de Sistemas<br> 👯 Banco de Dados<br> 🌱 Desenvolvimento Web com Django
+🔭 Desenvolvimento de Sistemas<br> 👯 Banco de Dados<br> 🌱 Django
 <br>⚡ Entusiasta de Criptomoedas, Blockchain e Investimentos
 
 
