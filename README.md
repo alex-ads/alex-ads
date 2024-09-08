@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Desenvolvimento de Sistemas<br> 👯 Banco de Dados<br> 🌱 Django
-<br>⚡ Entusiasta de Criptomoedas, Blockchain e Investimentos
+🔭 Desenvolvimento de Sistemas<br> 👯 Banco de Dados<br> 🌱 Ciência de Dados<br> ⚡ Entusiasta de Criptomoedas, Blockchain e Investimentos
 
 
 ## 🌐 Socials:
